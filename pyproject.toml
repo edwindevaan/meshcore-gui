@@ -1,6 +1,6 @@
 [project]
 name = "meshcore-gui"
-version = "1.24.2"
+version = "1.24.3"
 description = "MeshCore GUI — All-in-One MeshCore Platform"
 requires-python = ">=3.11"
 dependencies = [
